@@ -32,3 +32,13 @@ a{
   background-image: url("images/the-flatiron-building.png");
   color: white;
 }
+
+.bottomline{
+  background-color: dimgray;
+  text-align: left;
+}
+
+#copyright{
+  font-size: 11px;
+  color: white;
+}
